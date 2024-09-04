@@ -1,0 +1,140 @@
+.works {
+    padding: 0 3rem 0 3rem;
+    display: flex;
+    height: 90vh;
+    margin-top: 4rem;
+  
+    /* scroll */
+    align-items: center;
+  }
+  /* left side */
+  .awesome {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .awesome > :nth-child(1) {
+    color: var(--black);
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  .awesome > :nth-child(2) {
+    color: var(--orange);
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  .awesome > :nth-child(3) {
+    color: var(--gray);
+    font-size: 14px;
+    margin-top: 1rem;
+  }
+  .s_button {
+    width: 8rem;
+    height: 2.5rem;
+    margin-top: 3rem;
+  }
+.m-right{
+    position: relative;
+}
+.m-mainCircle{
+left:5rem;
+position: relative;
+width: 18rem;
+height: 18rem;
+border-radius: 100%;
+box-shadow: var(--smboxShadow);
+top:2rem;
+background: white;
+z-index: 2;
+
+}
+.m-mainCircle > * {
+    position: absolute;
+}
+.m-mainCircle>:nth-child(1)
+{
+    top: -3rem;
+    left: 6rem;
+}
+.m-mainCircle>:nth-child(2)
+{
+    top: 13rem;
+    left: 5rem;
+}
+.m-mainCircle>:nth-child(3)
+{
+    top: 6rem;
+    left: 13rem;
+}
+
+.m-secCircle{
+    width: 6rem;
+    height: 6rem;
+    position: absolute;
+    border-radius: 100%;
+    border: 5px solid #ebebeb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none;
+    box-shadow: var(--smboxShadow);
+    background: white;
+}
+.m-secCircle >img{
+    transform: scale(0.6);
+}
+
+.m-backCircle{
+  position: absolute;
+  height: 13rem;
+  width: 13rem;
+  border-radius: 100%;
+  z-index: -1;
+}
+/*
+.purpleCircle{
+    background: rgb(3, 197, 3);
+    left:6rem;
+    top:-1rem;;
+   
+}
+.yellowCircle{
+    background: #F5C32C;
+    left:6rem;
+    top:6rem;;
+}
+*/
+.purpleCircle{
+    background: rgb(3, 197, 3);
+    left:-2.3rem;
+    top:1rem;;
+   
+}
+.yellowCircle{
+    background: #F5C32C;
+    left:6rem;
+    top:6rem;;
+}
+
+@media screen and (max-width: 480px) {
+  .works {
+    flex-direction: column;
+    height: 55rem;
+    padding: 0;
+    gap: 5rem;
+  }
+
+  .m-right {
+    display: flex;
+    align-items: flex-start;
+    justify-content:start;
+    transform: scale(0.7);
+  }
+  .m-mainCircle{
+    position: static;
+  }
+  .m-backCircle{
+    left: 8rem!important;
+  }
+}
