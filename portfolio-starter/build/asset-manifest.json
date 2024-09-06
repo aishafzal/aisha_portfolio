@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Porfolio/static/css/main.b8f9ffaa.css",
+    "main.js": "/Porfolio/static/js/main.7b4bb15d.js",
+    "static/media/Aisha%MernStack.pdf": "/Porfolio/static/media/Aisha%MernStack.bd4fc14bd0e784238fcf.pdf",
+    "static/media/a2.png": "/Porfolio/static/media/a2.613e0cd4e7dc549d5306.png",
+    "static/media/productdev2.JPG": "/Porfolio/static/media/productdev2.6830ce83f9accd63a16e.JPG",
+    "static/media/ecommerce2.JPG": "/Porfolio/static/media/ecommerce2.2866a710c87947d9e2b4.JPG",
+    "static/media/Capture4.JPG": "/Porfolio/static/media/Capture4.b7e0b4db5df48bf9f0cd.JPG",
+    "static/media/glassesimoji.png": "/Porfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/ecoomerce3.JPG": "/Porfolio/static/media/ecoomerce3.1837f4e295349cc481a4.JPG",
+    "static/media/product.JPG": "/Porfolio/static/media/product.0707938301345c45130b.JPG",
+    "static/media/ecommerce1.JPG": "/Porfolio/static/media/ecommerce1.ec7185f15b46c1b86af5.JPG",
+    "static/media/digihealth.JPG": "/Porfolio/static/media/digihealth.838f1be5890cb9b33a5a.JPG",
+    "static/media/digihealth1.JPG": "/Porfolio/static/media/digihealth1.aa48bc47de20d66bf676.JPG",
+    "static/media/digih.JPG": "/Porfolio/static/media/digih.2c783e2970fc77847e06.JPG",
+    "static/media/Gumela Regular.otf": "/Porfolio/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
+    "static/media/minifoodpanda.JPG": "/Porfolio/static/media/minifoodpanda.e8d2c2540590646344f8.JPG",
+    "static/media/Capture1.JPG": "/Porfolio/static/media/Capture1.7a722e0a2f30628e517e.JPG",
+    "static/media/ai2.JPG": "/Porfolio/static/media/ai2.cf562a5ae3503adda5e0.JPG",
+    "static/media/y.png": "/Porfolio/static/media/y.75811b3cb6bb4465fb05.png",
+    "static/media/degree.JPG": "/Porfolio/static/media/degree.c6d3797d08cc1a009046.JPG",
+    "static/media/thumbup.png": "/Porfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/certificate.JPG": "/Porfolio/static/media/certificate.df7fd6af7e5e03282cbf.JPG",
+    "static/media/humble.png": "/Porfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Porfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/Capture2.JPG": "/Porfolio/static/media/Capture2.75ef555a4d0c45dea2f2.JPG",
+    "static/media/wave.png": "/Porfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/ai1.JPG": "/Porfolio/static/media/ai1.36d2b779ebb8e758755c.JPG",
+    "static/media/crown.png": "/Porfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Porfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Porfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/chatapp.JPG": "/Porfolio/static/media/chatapp.0cee62fd492d8a69781a.JPG",
+    "static/media/certificate2.JPG": "/Porfolio/static/media/certificate2.4351ae12fd56386a7b9e.JPG",
+    "index.html": "/Porfolio/index.html",
+    "main.b8f9ffaa.css.map": "/Porfolio/static/css/main.b8f9ffaa.css.map",
+    "main.7b4bb15d.js.map": "/Porfolio/static/js/main.7b4bb15d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8f9ffaa.css",
+    "static/js/main.7b4bb15d.js"
+  ]
+}
